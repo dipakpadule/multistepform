@@ -1,0 +1,6 @@
+.main-container{
+    background-image: url("./images/bg-sidebar-mobile.svg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-top: 105px;
+}
